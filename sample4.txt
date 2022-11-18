@@ -18,3 +18,13 @@ hiii how are you
 ece skct
 ece <br> eee <hr> cse
 <p>i am an ece student from skct i love this college i love this place i love the climate here 
+<p style="color:blue;">HELLO </p>
+<pre>  hi here space
+  lane gap  
+     what we want</pre>
+     software based courses
+Agile,html,C
+SDLC:Software Development LifeCycle
+Waterfall method,Agile method
+Scrum-Scrum master,Product owner,Development team
+Extreme programming...
