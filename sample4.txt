@@ -1,5 +1,10 @@
-Hi
-Hello
-How r u
-i am fine
-Welcome
+hiii
+<!HTMLDOC html>
+<html>
+<head>
+<title> haii we are friendz </title>
+hiii how are you
+<h1>welcome to i am neo </h1>
+<h2>skill development</h2>
+<h3>skill development</h3>
+<h4>skill development</h4>
