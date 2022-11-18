@@ -28,3 +28,18 @@ SDLC:Software Development LifeCycle
 Waterfall method,Agile method
 Scrum-Scrum master,Product owner,Development team
 Extreme programming...
+git hub
+git version
+pwd
+git status
+git commit -m "complete"
+git add origin master
+git push
+git pull
+ls
+ll
+touch doc1.txt
+git branch
+git checkout dev
+git checkout master
+git commit -m "b2"
